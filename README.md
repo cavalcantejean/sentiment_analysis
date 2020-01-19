@@ -1,8 +1,8 @@
-## Project: Sentiment Analysis
+# Project: Sentiment Analysis
 
-### Install
+## Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.8** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
