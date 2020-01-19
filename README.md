@@ -1,6 +1,8 @@
-# Project: Sentiment Analysis
+# Content: Using PyTorch and SageMaker to make a NLP
 
-## Install
+## Project: Sentiment Analysis
+
+### Install
 
 This project requires **Python 3.8** and the following Python libraries installed:
 
@@ -31,7 +33,7 @@ jupyter notebook 'SageMaker Project.ipynb'
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-## Data
+### Data
 
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
 
